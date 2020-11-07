@@ -1,0 +1,6 @@
+AuthUserFile /site/becca/.htpasswd
+AuthType Basic
+AuthName "becca's message"
+<Files "about.html">
+  Require valid-user
+</Files>
