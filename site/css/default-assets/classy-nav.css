@@ -99,6 +99,7 @@ img {
   color: black;
   display: inline-block;
   margin-right: 30px;
+  margin-top: 46px;
 }
 .classy-navbar .nav-brand:focus, .classy-navbar .nav-brand:hover {
   font-size: 26px;
