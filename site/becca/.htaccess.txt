@@ -1,4 +1,4 @@
-AuthUserFile /site/becca/.htpasswd
+AuthUserFile becksbecks/site/becca/.htpasswd
 AuthType Basic
 AuthName "becca's message"
 <Files "about.html">
